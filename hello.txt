@@ -1,4 +1,4 @@
 This is a hello world test file.
-
+Adding "hello" to the file to test rebase -i
 
 hello world
